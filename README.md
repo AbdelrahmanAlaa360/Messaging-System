@@ -1,1 +1,1 @@
-# MSG-Insider
+# MSG-Insider: Internal & Private Messaging System
