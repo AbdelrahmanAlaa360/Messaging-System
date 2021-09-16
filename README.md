@@ -1,9 +1,6 @@
-# MSG-Insider: Internal & Private Messaging System
+# MSG Insider: Internal & Private Messaging System
 
-MSG Insider: Internal & Private Messaging System 
-
-Upload the package to your server and extract the package. 
-This package includes 2 folders and  8 files
+#### Upload the package to your server and extract the package. This package includes 2 folders and  8 files
 The files as follow:
 1. README.txt 		[this file]
 2. db.config.php 	  [to config your database connection and create database tables]
